@@ -1,12 +1,4 @@
-# flac16-rar-to-mp3-v0
-# readme_generator.py
-# This script prints the full Markdown content for the README.md file.
-
-README_CONTENT = """# RAR to MP3 Converter for Music Albums
-
-This is an automated script to process a directory of music albums archived in `.rar` format. It extracts FLAC files from each archive, converts them to high-quality V0 MP3s, and organizes the output into a clean directory structure.
-
-The script is designed for Linux environments, specifically Ubuntu Server 24.04, and uses standard command-line tools for maximum efficiency and reliability.
+# flac16-rar-to-mp3-v0.py
 
 ## Features
 
